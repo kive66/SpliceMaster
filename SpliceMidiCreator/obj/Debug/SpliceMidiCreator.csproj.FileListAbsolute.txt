@@ -1,0 +1,28 @@
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csprojAssemblyReference.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.Properties.Resources.resources
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.GenerateResource.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.Properties.Resources.resources
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csprojAssemblyReference.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.Properties.Resources.resources
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.GenerateResource.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.pdb
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.dll
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.pdb
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csprojAssemblyReference.cache
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.Properties.Resources.resources
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.GenerateResource.cache
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.dll
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.pdb

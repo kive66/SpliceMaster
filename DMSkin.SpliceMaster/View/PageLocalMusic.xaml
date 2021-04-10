@@ -1,0 +1,209 @@
+﻿<Page
+    x:Class="DMSkin.CloudMusic.View.PageLocalMusic"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="clr-namespace:DMSkin.CloudMusic.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:dmcontrols="clr-namespace:DMSkin.WPF.Controls;assembly=DMSkin.WPF"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewmodel="clr-namespace:DMSkin.CloudMusic.ViewModel"
+    Title="PageLocalMusic"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    Foreground="{StaticResource TextColor}"
+    mc:Ignorable="d">
+    <Page.DataContext>
+        <viewmodel:PageLocalMusicViewModel />
+    </Page.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2.069" />
+            <RowDefinition Height="47.931"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Border BorderBrush="{StaticResource SplitterColor}" BorderThickness="0,0,0,1" Grid.RowSpan="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="447*"/>
+                    <ColumnDefinition Width="353*"/>
+                </Grid.ColumnDefinitions>
+                <WrapPanel
+                    Margin="30,0,0,5"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Bottom" Width="251">
+                    <TextBlock FontSize="18" Width="78" ><Run Text="Midi"/><Run Text="文件"/></TextBlock>
+                    <TextBlock
+                        Margin="10,0,0,0"
+                        VerticalAlignment="Bottom"
+                        Text="{Binding MusicList.Count}" />
+                    <TextBlock VerticalAlignment="Bottom" Text="首音乐，" />
+                    <dmcontrols:DMLinkButton
+                        VerticalAlignment="Bottom"
+                        Command="{Binding AddFileCommand}"
+                        Content="选择Midi"
+                        DMDisplayLine="False"
+                        DMSystemButtonHoverColor="Transparent"
+                        Foreground="#0C73C2" />
+                </WrapPanel>
+                <WrapPanel
+                    Margin="0,0,30,5"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Bottom" Grid.Column="1"/>
+                <Button
+                    Content="开始转换"
+                    HorizontalAlignment="Left"
+                    Margin="248.103,11,0,0"
+                    VerticalAlignment="Top"
+                    Width="75"
+                    Height="28"
+                    Command="{Binding StartCreation}" Grid.Column="1"
+                />
+            </Grid>
+        </Border>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="203*"/>
+                <ColumnDefinition Width="597*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Visibility="{Binding DisplayMusicList, Converter={StaticResource BoolToVisibilityConverter}}" Grid.ColumnSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="58" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <StackPanel Margin="30,0,0,0" Orientation="Horizontal">
+                    <dmcontrols:DMButton
+                        Width="100"
+                        Height="28"
+                        Background="{StaticResource ThemeColor}"
+                        BorderThickness="0"
+                        Content="播放全部"
+                        CornerRadius="5,0,0,5"
+                        Foreground="White" />
+                    <dmcontrols:DMButton
+                        Width="28"
+                        Height="28"
+                        Background="{StaticResource ThemeColor}"
+                        BorderThickness="0"
+                        CornerRadius="0,5,5,0"
+                        Foreground="White">
+                        <Path
+                            Width="12"
+                            Height="12"
+                            Data="{StaticResource Icon_Add}"
+                            Fill="White"
+                            Stretch="Uniform" />
+                    </dmcontrols:DMButton>
+                    <dmcontrols:DMButton
+                        Width="100"
+                        Height="28"
+                        Margin="10,0,0,0"
+                        Background="White"
+                        BorderBrush="{StaticResource SplitterColor}"
+                        BorderThickness="1"
+                        CornerRadius="5"
+                        Foreground="{StaticResource TextColor1}">
+                        <WrapPanel>
+                            <Path
+                                Width="12"
+                                Height="12"
+                                Data="{StaticResource Icon_Add}"
+                                Fill="{StaticResource TextColor1}"
+                                Stretch="Uniform" />
+                            <TextBlock Margin="10,0,0,0" Text="匹配音乐" />
+                        </WrapPanel>
+                    </dmcontrols:DMButton>
+                </StackPanel>
+                <DataGrid
+                    Grid.Row="1"
+                    AlternationCount="2"
+                    AutoGenerateColumns="False"
+                    BorderThickness="0,1,0,0"
+                    CanUserAddRows="False"
+                    CanUserDeleteRows="False"
+                    CanUserReorderColumns="False"
+                    CanUserResizeColumns="true"
+                    CanUserResizeRows="False"
+                    ColumnHeaderHeight="30"
+                    GridLinesVisibility="None"
+                    HeadersVisibility="Column"
+                    IsReadOnly="True"
+                    ItemsSource="{Binding MusicList}"
+                    RowHeight="28"
+                    SelectedItem="{Binding SelectedMusic, Mode=TwoWay}"
+                    SelectedIndex="{Binding SelectNum, Mode=TwoWay}">
+                    <DataGrid.InputBindings>
+                        <MouseBinding Command="{Binding PlayCommand}" MouseAction="LeftDoubleClick" />
+                    </DataGrid.InputBindings>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn
+                            Width="Auto"
+                            MinWidth="50"
+                            Binding="{Binding Index}"
+                            Header="" />
+                        <DataGridTextColumn
+                            Width="*"
+                            Binding="{Binding Title}"
+                            Header="音乐标题" />
+                        <DataGridTextColumn
+                            Width="*"
+                            Binding="{Binding Artist}"
+                            Header="歌手" />
+                        <DataGridTextColumn
+                            Width="*"
+                            Binding="{Binding Album}"
+                            Header="专辑" />
+                        <DataGridTextColumn
+                            Width="*"
+                            Binding="{Binding TimeStr}"
+                            Header="时长" />
+                        <DataGridTextColumn
+                            Width="*"
+                            Binding="{Binding SizeStr}"
+                            Header="大小" />
+                        <DataGridTemplateColumn Width="*" Header="编辑(可选)">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <dmcontrols:DMLinkButton
+                                    Width="60"
+                                    Command="{Binding DataContext.EditCommand, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Page}}"
+                                    CommandParameter="{Binding}"
+                                    Content="自定义位置"
+                                    DMSystemButtonHoverColor="Transparent"
+                                    DMDisplayLine="False"
+                                    Foreground="#0C73C2" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Width="*" Header="删除">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <dmcontrols:DMLinkButton
+                                    Width="60"
+                                    Command="{Binding DataContext.Delete, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Page}}"
+                                    CommandParameter="{Binding}"
+                                    Content="删除"
+                                    DMSystemButtonHoverColor="Transparent"
+                                    DMDisplayLine="False"
+                                    Foreground="#0C73C2" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            <StackPanel
+                Margin="104.903,150,308,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Visibility="{Binding DisplayMusicList, Converter={StaticResource BoolToVisibilityConverter}, ConverterParameter=true}" Grid.Column="1">
+                <Button
+                    Width="185"
+                    Height="55"
+                    Command="{Binding AddFileCommand}"
+                    Content="选择本地Midi文件"
+                    FontSize="16"
+                    Style="{StaticResource ThemeButton}" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

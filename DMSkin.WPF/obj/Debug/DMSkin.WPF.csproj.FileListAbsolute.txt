@@ -1,0 +1,170 @@
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.WPF.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.WPF.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.Core.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.Core.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csprojAssemblyReference.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\ShadowWindow.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\Animation.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMContextMenu.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMIcon.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMImage.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMListBox.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMResizeGrip.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSkin.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSlider.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMToolTip.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTreeView.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\ShadowWindow.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.lref
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMButton.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMCheckBox.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMDataGrid.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMItemsControl.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMRadioButton.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMScrollViewer.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSkinSimpleWindow.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTabControl.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTextBox.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.g.resources
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CoreCompileInputs.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CopyComplete
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.WPF.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.WPF.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.Core.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.Core.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\ShadowWindow.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\Animation.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMContextMenu.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMIcon.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMImage.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMListBox.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMResizeGrip.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSkin.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSlider.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMToolTip.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTreeView.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\ShadowWindow.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.lref
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMButton.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMCheckBox.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMDataGrid.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMItemsControl.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMRadioButton.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMScrollViewer.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSkinSimpleWindow.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTabControl.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTextBox.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.g.resources
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CopyComplete
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.Core.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\bin\Debug\DMSkin.Core.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csprojAssemblyReference.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\ShadowWindow.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\Animation.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMContextMenu.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMIcon.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMImage.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMListBox.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMResizeGrip.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSkin.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSlider.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMToolTip.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTreeView.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\ShadowWindow.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.lref
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMButton.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMCheckBox.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMDataGrid.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMItemsControl.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMRadioButton.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMScrollViewer.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMSkinSimpleWindow.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTabControl.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\Styles\DMTextBox.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.g.resources
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CopyComplete
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.WPF\obj\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.Core.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.Core.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.csprojAssemblyReference.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\ShadowWindow.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\Animation.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMContextMenu.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMIcon.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMImage.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMListBox.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMResizeGrip.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMSkin.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMSlider.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMToolTip.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMTreeView.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\ShadowWindow.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.lref
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMButton.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMCheckBox.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMDataGrid.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMItemsControl.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMRadioButton.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMScrollViewer.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMSkinSimpleWindow.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMTabControl.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMTextBox.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.g.resources
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CopyComplete
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.WPF.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.WPF.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.Core.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\bin\Debug\DMSkin.Core.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.csprojAssemblyReference.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\ShadowWindow.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\Animation.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMContextMenu.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMIcon.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMImage.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMListBox.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMResizeGrip.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMSkin.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMSlider.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMToolTip.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMTreeView.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\ShadowWindow.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF_MarkupCompile.lref
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMButton.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMCheckBox.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMDataGrid.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMItemsControl.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMRadioButton.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMScrollViewer.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMSkinSimpleWindow.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMTabControl.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\Styles\DMTextBox.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.g.resources
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CoreCompileInputs.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.csproj.CopyComplete
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.WPF\obj\Debug\DMSkin.WPF.pdb

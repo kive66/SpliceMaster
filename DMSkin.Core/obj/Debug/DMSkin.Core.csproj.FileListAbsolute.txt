@@ -1,0 +1,6 @@
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\bin\Debug\DMSkin.Core.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\bin\Debug\DMSkin.Core.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.csprojAssemblyReference.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.csproj.CoreCompileInputs.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.pdb

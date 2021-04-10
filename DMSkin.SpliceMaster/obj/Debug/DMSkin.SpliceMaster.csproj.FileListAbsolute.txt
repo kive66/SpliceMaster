@@ -1,0 +1,159 @@
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe.config
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\SpliceMidiCreator.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\SpliceMidiCreator.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Interop.Shell32.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.SpliceMaster.csproj.ResolveComReference.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMScrollViewer.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMSlider.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Expander.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Path.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\EditWindow.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.lref
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Button.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Color.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\ProgressBar.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\RadioButton.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\EditWindow.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.g.resources
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.Properties.Resources.resources
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.SpliceMaster.csproj.GenerateResource.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.SpliceMaster.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.SpliceMaster.csproj.CopyComplete
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.exe
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.SpliceMaster.exe.config
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.SpliceMaster.exe
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.SpliceMaster.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.Core.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\SpliceMidiCreator.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.Core.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\SpliceMidiCreator.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Newtonsoft.Json.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csprojAssemblyReference.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Interop.Shell32.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.ResolveComReference.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\DMScrollViewer.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\DMSlider.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Expander.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Path.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\MainWindow.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\EditWindow.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCollection.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageDownLoad.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageEmpty.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCloudMusic.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageLocalMusic.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\App.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster_MarkupCompile.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster_MarkupCompile.lref
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\App.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\MainWindow.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Button.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Color.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\ProgressBar.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\RadioButton.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\EditWindow.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCollection.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageDownLoad.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageEmpty.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCloudMusic.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageLocalMusic.baml
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.g.resources
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.Properties.Resources.resources
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.GenerateResource.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.CopyComplete
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.exe
+E:\Visual Studio solution\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.SpliceMaster.exe.config
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.SpliceMaster.exe
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.SpliceMaster.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\ConsoleApplication.exe
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.Core.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.WPF.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Newtonsoft.Json.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\SpliceMidiCreator.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\ConsoleApplication.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.Core.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\DMSkin.WPF.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\SpliceMidiCreator.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Newtonsoft.Json.pdb
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\bin\Debug\Newtonsoft.Json.xml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csprojAssemblyReference.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Interop.Shell32.dll
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.ResolveComReference.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\DMScrollViewer.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\DMSlider.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Expander.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Path.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\MainWindow.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\EditWindow.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageSheetMusic.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCollection.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageDownLoad.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageEmpty.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCloudMusic.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageLocalMusic.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\App.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster_MarkupCompile.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster_MarkupCompile.lref
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\App.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\MainWindow.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Button.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\Color.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\ProgressBar.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\Style\RadioButton.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\EditWindow.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageSheetMusic.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCollection.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageDownLoad.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageEmpty.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageCloudMusic.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\View\PageLocalMusic.baml
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.g.resources
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.Properties.Resources.resources
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.GenerateResource.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.CoreCompileInputs.cache
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.csproj.CopyComplete
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.exe
+E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\DMSkin.SpliceMaster.pdb

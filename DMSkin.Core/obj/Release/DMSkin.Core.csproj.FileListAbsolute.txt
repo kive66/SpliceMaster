@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\bin\Release\DMSkin.Core.dll
+C:\Users\User\Source\Repos\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\bin\Release\DMSkin.Core.pdb
+C:\Users\User\Source\Repos\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Release\DMSkin.Core.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Release\DMSkin.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Release\DMSkin.Core.dll
+C:\Users\User\Source\Repos\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Release\DMSkin.Core.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.Core\bin\Release\DMSkin.Core.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.Core\bin\Release\DMSkin.Core.pdb
+E:\Visual Studio solution\SpliceMaster\DMSkin.Core\obj\Release\DMSkin.Core.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\SpliceMaster\DMSkin.Core\obj\Release\DMSkin.Core.dll
+E:\Visual Studio solution\SpliceMaster\DMSkin.Core\obj\Release\DMSkin.Core.pdb

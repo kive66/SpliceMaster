@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Code\vscode\C#\MidiToSheetMusic-master\obj\x86\Debug\Midi.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\vscode\C#\MidiToSheetMusic-master\obj\x86\Debug\Midi.csproj.CoreCompileInputs.cache
+E:\Code\c-lab\MidiToSheetMusic-master\bin\Debug\ConsoleApplication.exe
+E:\Code\c-lab\MidiToSheetMusic-master\bin\Debug\ConsoleApplication.pdb
+E:\Code\c-lab\MidiToSheetMusic-master\obj\x86\Debug\Midi.csprojAssemblyReference.cache
+E:\Code\c-lab\MidiToSheetMusic-master\obj\x86\Debug\Midi.csproj.CoreCompileInputs.cache
+E:\Code\c-lab\MidiToSheetMusic-master\obj\x86\Debug\ConsoleApplication.exe
+E:\Code\c-lab\MidiToSheetMusic-master\obj\x86\Debug\ConsoleApplication.pdb

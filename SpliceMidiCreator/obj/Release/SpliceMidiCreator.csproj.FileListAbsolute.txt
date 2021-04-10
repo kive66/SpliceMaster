@@ -1,0 +1,16 @@
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\bin\Release\SpliceMidiCreator.dll
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\bin\Release\SpliceMidiCreator.pdb
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.csprojAssemblyReference.cache
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.Properties.Resources.resources
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.csproj.GenerateResource.cache
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.dll
+E:\Visual Studio solution\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.pdb
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\bin\Release\SpliceMidiCreator.dll
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\bin\Release\SpliceMidiCreator.pdb
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.csprojAssemblyReference.cache
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.Properties.Resources.resources
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.csproj.GenerateResource.cache
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.dll
+E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Release\SpliceMidiCreator.pdb

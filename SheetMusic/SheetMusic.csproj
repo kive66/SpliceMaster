@@ -1,0 +1,170 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{0EA36E7D-BFDF-4BEB-B775-F0E759BBEDEF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Midi</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\bass.png" />
+    <Content Include="img\eight.png" />
+    <Content Include="img\four.png" />
+    <Content Include="img\nine.png" />
+    <Content Include="img\NotePair.ico" />
+    <Content Include="img\six.png" />
+    <Content Include="img\three.png" />
+    <Content Include="img\treble.png" />
+    <Content Include="img\twelve.png" />
+    <Content Include="img\two.png" />
+    <Content Include="LICENSE.txt" />
+    <Content Include="songs\Bach__Invention_No._13.mid" />
+    <Content Include="songs\Bach__Minuet_in_G_major.mid" />
+    <Content Include="songs\Bach__Musette_in_D_major.mid" />
+    <Content Include="songs\Bach__Prelude_in_C_major.mid" />
+    <Content Include="songs\Beethoven__Fur_Elise.mid" />
+    <Content Include="songs\Beethoven__Minuet_in_G_major.mid" />
+    <Content Include="songs\Beethoven__Moonlight_Sonata.mid" />
+    <Content Include="songs\Beethoven__Sonata_Pathetique_2nd_Mov.mid" />
+    <Content Include="songs\Bizet__Habanera_from_Carmen.mid" />
+    <Content Include="songs\Borodin__Polovstian_Dance.mid" />
+    <Content Include="songs\Brahms__Hungarian_Dance_No._5.mid" />
+    <Content Include="songs\Brahms__Waltz_No._15_in_A-flat_major.mid" />
+    <Content Include="songs\Brahms__Waltz_No._9_in_D_minor.mid" />
+    <Content Include="songs\Chopin__Minute_Waltz_Op._64_No._1_in_D-flat_major.mid" />
+    <Content Include="songs\Chopin__Nocturne_in_C_minor.mid" />
+    <Content Include="songs\Chopin__Nocturne_Op._9_No._1_in_B-flat_minor.mid" />
+    <Content Include="songs\Chopin__Nocturne_Op._9_No._2_in_E-flat_major.mid" />
+    <Content Include="songs\Chopin__Prelude_Op._28_No._20_in_C_minor.mid" />
+    <Content Include="songs\Chopin__Prelude_Op._28_No._4_in_E_minor.mid" />
+    <Content Include="songs\Chopin__Prelude_Op._28_No._6_in_B_minor.mid" />
+    <Content Include="songs\Chopin__Prelude_Op._28_No._7_in_A_major.mid" />
+    <Content Include="songs\Chopin__Waltz_Op._64_No._2_in_Csharp_minor.mid" />
+    <Content Include="songs\Clementi__Sonatina_Op._36_No._1.mid" />
+    <Content Include="songs\Easy_Songs__Brahms_Lullaby.mid" />
+    <Content Include="songs\Easy_Songs__Greensleeves.mid" />
+    <Content Include="songs\Easy_Songs__Jingle_Bells.mid" />
+    <Content Include="songs\Easy_Songs__Silent_Night.mid" />
+    <Content Include="songs\Easy_Songs__Twinkle_Twinkle_Little_Star.mid" />
+    <Content Include="songs\Field__Nocturne_in_B-flat_major.mid" />
+    <Content Include="songs\Grieg__Canon_Op._38_No._8.mid" />
+    <Content Include="songs\Grieg__Peer_Gynt_Morning.mid" />
+    <Content Include="songs\Handel__Sarabande_in_D_minor.mid" />
+    <Content Include="songs\Liadov__Prelude_Op._11_in_B_minor.mid" />
+    <Content Include="songs\MacDowelll__To_a_Wild_Rose.mid" />
+    <Content Include="songs\Massenet__Elegy_in_E_minor.mid" />
+    <Content Include="songs\Mendelssohn__Venetian_Boat_Song_Op._19b_No._6.mid" />
+    <Content Include="songs\Mendelssohn__Wedding_March.mid" />
+    <Content Include="songs\Mozart__Aria_from_Don_Giovanni.mid" />
+    <Content Include="songs\Mozart__Eine_Kleine_Nachtmusik.mid" />
+    <Content Include="songs\Mozart__Fantasy_No._3_in_D_minor.mid" />
+    <Content Include="songs\Mozart__Minuet_from_Don_Juan.mid" />
+    <Content Include="songs\Mozart__Rondo_Alla_Turca.mid" />
+    <Content Include="songs\Mozart__Sonata_K.545_in_C_major.mid" />
+    <Content Include="songs\Offenbach__Barcarolle_from_The_Tales_of_Hoffmann.mid" />
+    <Content Include="songs\Pachelbel__Canon_in_D_major.mid" />
+    <Content Include="songs\Prokofiev__Peter_and_the_Wolf.mid" />
+    <Content Include="songs\Puccini__O_Mio_Babbino_Caro.mid" />
+    <Content Include="songs\Rebikov__Valse_Melancolique_Op._2_No._3.mid" />
+    <Content Include="songs\Saint-Saens__The_Swan.mid" />
+    <Content Include="songs\sample.mid" />
+    <Content Include="songs\Satie__Gnossienne_No._1.mid" />
+    <Content Include="songs\Satie__Gymnopedie_No._1.mid" />
+    <Content Include="songs\Schubert__Impromptu_Op._90_No._4_in_A-flat_major.mid" />
+    <Content Include="songs\Schubert__Moment_Musicaux_No._1_in_C_major.mid" />
+    <Content Include="songs\Schubert__Moment_Musicaux_No._3_in_F_minor.mid" />
+    <Content Include="songs\Schubert__Serenade_in_D_minor.mid" />
+    <Content Include="songs\Schumann__Scenes_From_Childhood_Op._15_No._12.mid" />
+    <Content Include="songs\Schumann__The_Happy_Farmer.mid" />
+    <Content Include="songs\Strauss__The_Blue_Danube_Waltz.mid" />
+    <Content Include="songs\Tchaikovsky__Album_for_the_Young_-_Old_French_Song.mid" />
+    <Content Include="songs\Tchaikovsky__Album_for_the_Young_-_Polka.mid" />
+    <Content Include="songs\Tchaikovsky__Album_for_the_Young_-_Waltz.mid" />
+    <Content Include="songs\Tchaikovsky__Nutcracker_-_Dance_of_the_Reed_Flutes.mid" />
+    <Content Include="songs\Tchaikovsky__Nutcracker_-_Dance_of_the_Sugar_Plum_Fairies.mid" />
+    <Content Include="songs\Tchaikovsky__Nutcracker_-_March_of_the_Toy_Soldiers.mid" />
+    <Content Include="songs\Tchaikovsky__Nutcracker_-_Waltz_of_the_Flowers.mid" />
+    <Content Include="songs\Tchaikovsky__Swan_Lake.mid" />
+    <Content Include="songs\the_sign.mid" />
+    <Content Include="songs\Verdi__La_Donna_e_Mobile.mid" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".vs\MidiToSheetMusic-master\v16\.suo" />
+    <None Include=".vs\ProjectSettings.json" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="src\AccidSymbol.cs" />
+    <Compile Include="src\BarSymbol.cs" />
+    <Compile Include="src\BlankSymbol.cs" />
+    <Compile Include="src\ChordSymbol.cs" />
+    <Compile Include="src\ClefMeasures.cs" />
+    <Compile Include="src\ClefSymbol.cs" />
+    <Compile Include="src\KeySignature.cs" />
+    <Compile Include="src\LyricSymbol.cs" />
+    <Compile Include="src\Main.cs" />
+    <Compile Include="src\MidiEvent.cs" />
+    <Compile Include="src\MidiFile.cs" />
+    <Compile Include="src\MidiFileException.cs" />
+    <Compile Include="src\MidiFileReader.cs" />
+    <Compile Include="src\MidiNote.cs" />
+    <Compile Include="src\MidiOptions.cs" />
+    <Compile Include="src\MidiTrack.cs" />
+    <Compile Include="src\MusicSymbol.cs" />
+    <Compile Include="src\NoteColorDialog.cs" />
+    <Compile Include="src\RestSymbol.cs" />
+    <Compile Include="src\SheetMusic.cs" />
+    <Compile Include="src\Staff.cs" />
+    <Compile Include="src\Stem.cs" />
+    <Compile Include="src\SymbolWidths.cs" />
+    <Compile Include="src\TimeSignature.cs" />
+    <Compile Include="src\TimeSigSymbol.cs" />
+    <Compile Include="src\WhiteNote.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\Midi\v16\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

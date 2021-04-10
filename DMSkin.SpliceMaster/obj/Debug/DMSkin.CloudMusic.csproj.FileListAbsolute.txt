@@ -1,0 +1,149 @@
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe.config
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.pdb
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.xml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csprojAssemblyReference.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Interop.Shell32.dll
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.ResolveComReference.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMScrollViewer.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMSlider.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Expander.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Path.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.lref
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Button.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Color.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\ProgressBar.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\RadioButton.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.baml
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.g.resources
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.Properties.Resources.resources
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.GenerateResource.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.CoreCompileInputs.cache
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.CopyComplete
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.exe
+E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe.config
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Interop.Shell32.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMScrollViewer.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMSlider.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Expander.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Path.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.lref
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Button.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Color.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\ProgressBar.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\RadioButton.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.g.resources
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.Properties.Resources.resources
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.GenerateResource.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.CopyComplete
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.exe
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\SpliceMidiCreator.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\SpliceMidiCreator.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe.config
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.exe
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.CloudMusic.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\SpliceMidiCreator.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.Core.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\DMSkin.WPF.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\SpliceMidiCreator.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csprojAssemblyReference.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Interop.Shell32.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.ResolveComReference.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMScrollViewer.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\DMSlider.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Expander.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Path.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic_MarkupCompile.lref
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\App.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\MainWindow.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Button.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\Color.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\ProgressBar.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\Style\RadioButton.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCollection.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageDownLoad.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageEmpty.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageCloudMusic.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\PageLocalMusic.baml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.g.resources
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.Properties.Resources.resources
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.GenerateResource.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.CoreCompileInputs.cache
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.csproj.CopyComplete
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.exe
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\DMSkin.CloudMusic.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\EditWindow.g.cs
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\EditWindow.baml
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Documents\Code\c-lab\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\EditWindow.g.cs
+E:\Visual Studio solution\DMSkin.CloudMusic\DMSkin.CloudMusic\obj\Debug\View\EditWindow.baml
