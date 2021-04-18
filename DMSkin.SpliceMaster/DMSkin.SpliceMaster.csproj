@@ -88,6 +88,30 @@
     <Compile Include="Controls\IconButton.cs" />
     <Compile Include="Model\LeftMenu.cs" />
     <Compile Include="Model\Music.cs" />
+    <Compile Include="SheetCreator\src\AccidSymbol.cs" />
+    <Compile Include="SheetCreator\src\BarSymbol.cs" />
+    <Compile Include="SheetCreator\src\BlankSymbol.cs" />
+    <Compile Include="SheetCreator\src\ChordSymbol.cs" />
+    <Compile Include="SheetCreator\src\ClefMeasures.cs" />
+    <Compile Include="SheetCreator\src\ClefSymbol.cs" />
+    <Compile Include="SheetCreator\src\KeySignature.cs" />
+    <Compile Include="SheetCreator\src\LyricSymbol.cs" />
+    <Compile Include="SheetCreator\src\MidiEvent.cs" />
+    <Compile Include="SheetCreator\src\MidiFile.cs" />
+    <Compile Include="SheetCreator\src\MidiFileException.cs" />
+    <Compile Include="SheetCreator\src\MidiFileReader.cs" />
+    <Compile Include="SheetCreator\src\MidiNote.cs" />
+    <Compile Include="SheetCreator\src\MidiOptions.cs" />
+    <Compile Include="SheetCreator\src\MidiTrack.cs" />
+    <Compile Include="SheetCreator\src\MusicSymbol.cs" />
+    <Compile Include="SheetCreator\src\RestSymbol.cs" />
+    <Compile Include="SheetCreator\src\SheetMusic.cs" />
+    <Compile Include="SheetCreator\src\Staff.cs" />
+    <Compile Include="SheetCreator\src\Stem.cs" />
+    <Compile Include="SheetCreator\src\SymbolWidths.cs" />
+    <Compile Include="SheetCreator\src\TimeSignature.cs" />
+    <Compile Include="SheetCreator\src\TimeSigSymbol.cs" />
+    <Compile Include="SheetCreator\src\WhiteNote.cs" />
     <Compile Include="ViewModel\EditViewModel.cs" />
     <Compile Include="ViewModel\MainWindowViewModel.cs" />
     <Compile Include="ViewModel\Base\MusicViewModelBase.cs" />
@@ -255,10 +279,6 @@
       <Project>{168352b1-6a0c-4c9c-8a32-68b512da3cfc}</Project>
       <Name>DMSkin.WPF</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SheetMusic\SheetMusic.csproj">
-      <Project>{0ea36e7d-bfdf-4beb-b775-f0e759bbedef}</Project>
-      <Name>SheetMusic</Name>
-    </ProjectReference>
     <ProjectReference Include="..\SpliceMidiCreator\SpliceMidiCreator.csproj">
       <Project>{45186bb8-4d0f-4545-ac51-5661c53ce186}</Project>
       <Name>SpliceMidiCreator</Name>
@@ -270,6 +290,33 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\bass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\eight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\four.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\nine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\six.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\three.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\treble.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\twelve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SheetCreator\img\two.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

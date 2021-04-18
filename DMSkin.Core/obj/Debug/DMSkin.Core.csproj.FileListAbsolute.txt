@@ -4,3 +4,8 @@ E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.csprojA
 E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.csproj.CoreCompileInputs.cache
 E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.dll
 E:\DMSkin-CloudMusic\DMSkin.CloudMusic\DMSkin.Core\obj\Debug\DMSkin.Core.pdb
+E:\Code\SpliceMaster\DMSkin.Core\bin\Debug\DMSkin.Core.dll
+E:\Code\SpliceMaster\DMSkin.Core\bin\Debug\DMSkin.Core.pdb
+E:\Code\SpliceMaster\DMSkin.Core\obj\Debug\DMSkin.Core.csproj.CoreCompileInputs.cache
+E:\Code\SpliceMaster\DMSkin.Core\obj\Debug\DMSkin.Core.dll
+E:\Code\SpliceMaster\DMSkin.Core\obj\Debug\DMSkin.Core.pdb

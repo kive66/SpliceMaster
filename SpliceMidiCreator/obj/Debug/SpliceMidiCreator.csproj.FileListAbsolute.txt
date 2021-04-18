@@ -26,3 +26,10 @@ E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.
 E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
 E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.dll
 E:\Code\c-lab\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.pdb
+E:\Code\SpliceMaster\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.dll
+E:\Code\SpliceMaster\SpliceMidiCreator\bin\Debug\SpliceMidiCreator.pdb
+E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.Properties.Resources.resources
+E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.GenerateResource.cache
+E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
+E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.dll
+E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.pdb

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\
+E:\Code\SpliceMaster\DMSkin.SpliceMaster\obj\Debug\
 DMSkin.SpliceMaster
 none
 false
 DEBUG;TRACE
-E:\Code\c-lab\SpliceMaster\DMSkin.SpliceMaster\App.xaml
+E:\Code\SpliceMaster\DMSkin.SpliceMaster\App.xaml
 161291477784
 
-26-1765136327
-221893707393
+501667215863
+21-145297970
 MainWindow.xaml;Style\Button.xaml;Style\Color.xaml;Style\DMScrollViewer.xaml;Style\DMSlider.xaml;Style\Expander.xaml;Style\Path.xaml;Style\ProgressBar.xaml;Style\RadioButton.xaml;View\EditWindow.xaml;View\PageSheetMusic.xaml;View\PageCollection.xaml;View\PageDownLoad.xaml;View\PageEmpty.xaml;View\PageCloudMusic.xaml;View\PageLocalMusic.xaml;
 
 False
