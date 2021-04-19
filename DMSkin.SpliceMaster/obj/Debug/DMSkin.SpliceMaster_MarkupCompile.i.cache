@@ -16,5 +16,5 @@ E:\Code\SpliceMaster\DMSkin.SpliceMaster\App.xaml
 21-145297970
 MainWindow.xaml;Style\Button.xaml;Style\Color.xaml;Style\DMScrollViewer.xaml;Style\DMSlider.xaml;Style\Expander.xaml;Style\Path.xaml;Style\ProgressBar.xaml;Style\RadioButton.xaml;View\EditWindow.xaml;View\PageSheetMusic.xaml;View\PageCollection.xaml;View\PageDownLoad.xaml;View\PageEmpty.xaml;View\PageCloudMusic.xaml;View\PageLocalMusic.xaml;
 
-False
+True
 

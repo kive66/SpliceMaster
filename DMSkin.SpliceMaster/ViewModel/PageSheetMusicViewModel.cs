@@ -44,8 +44,8 @@ namespace DMSkin.CloudMusic.ViewModel {
             Bitmap bitmap = new Bitmap(840, 1090);
             Graphics g = Graphics.FromImage(bitmap);
             sheet.DoPrint(g, page_num);
-            bitmap.Save( "_" + page + ".png",
-                        System.Drawing.Imaging.ImageFormat.Png);
+            /*bitmap.Save( "_" + page + ".png",
+                        System.Drawing.Imaging.ImageFormat.Png);*/
             Page = BitmapToBitmapImage(bitmap);
             g.Dispose();
             bitmap.Dispose();

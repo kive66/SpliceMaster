@@ -1,4 +1,0 @@
-E:\Code\SpliceMaster\SheetCreater\obj\Debug\netcoreapp3.1\SheetCreater.csprojAssemblyReference.cache
-E:\Code\SpliceMaster\SheetCreater\obj\Debug\netcoreapp3.1\SheetCreater.AssemblyInfoInputs.cache
-E:\Code\SpliceMaster\SheetCreater\obj\Debug\netcoreapp3.1\SheetCreater.AssemblyInfo.cs
-E:\Code\SpliceMaster\SheetCreater\obj\Debug\netcoreapp3.1\SheetCreater.csproj.CoreCompileInputs.cache
