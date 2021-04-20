@@ -87,7 +87,7 @@
             <TextBox HorizontalAlignment="Left" Height="19" Margin="48,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65"
                      Text="{Binding StartNote}" PreviewTextInput="tb_PreviewTextInput" input:InputMethod.IsInputMethodEnabled="False"/>
             <TextBox HorizontalAlignment="Left" Height="19" Margin="166,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65"
-                     Text="{Binding EndBar}" PreviewTextInput="tb_PreviewTextInput" input:InputMethod.IsInputMethodEnabled="False"/>
+                     Text="{Binding EndBar, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" PreviewTextInput="tb_PreviewTextInput" input:InputMethod.IsInputMethodEnabled="False"/>
             <Label Content="起始小节" Foreground="Gray" HorizontalAlignment="Left" Margin="48,7,0,0" VerticalAlignment="Top"/>
             <Label Content="终止音符" Foreground="Gray" HorizontalAlignment="Left" Margin="173,66,0,0" VerticalAlignment="Top"/>
             <Label Content="起始音符" Foreground="Gray" HorizontalAlignment="Left" Margin="48,62,0,0" VerticalAlignment="Top"/>

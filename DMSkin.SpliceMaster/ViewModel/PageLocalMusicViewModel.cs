@@ -11,19 +11,20 @@ using SpliceMaster;
 using DMSkin.CloudMusic.View;
 using System;
 using System.Text;
+using System.Collections;
 using System.Windows;
 using System.Windows.Forms;
 
 namespace DMSkin.CloudMusic.ViewModel {
     public class PageLocalMusicViewModel : MusicViewModelBase {
-        public PageLocalMusicViewModel() {
+        public PageLocalMusicViewModel () {
             // Read();
         }
 
         /// <summary>
         /// 读取配置
         /// </summary>
-        public void Read() {
+        public void Read () {
             if (File.Exists("LocalMusic.json")) {
                 //尝试从 配置文件中读取 上次 增加的 播放列表
                 string json = File.ReadAllText("LocalMusic.json");
@@ -42,7 +43,7 @@ namespace DMSkin.CloudMusic.ViewModel {
         /// <summary>
         /// 写入配置
         /// </summary>
-        public void Save() {
+        public void Save () {
 
             string json = JsonConvert.SerializeObject(MusicList);
             File.WriteAllText("LocalMusic.json", json);
@@ -79,19 +80,20 @@ namespace DMSkin.CloudMusic.ViewModel {
         }
 
         /** select file */
-        public string SelectFileWpf() {
+        public string SelectFileWpf () {
             var openFileDialog = new Microsoft.Win32.OpenFileDialog() {
                 Filter = "Midi文件 (.mid)|*.mid"
             };
             var result = openFileDialog.ShowDialog();
             if (result == true) {
                 return openFileDialog.FileName;
-            } else {
+            }
+            else {
                 return null;
             }
         }
 
-        private void FindMusic(List<string> filelist) {
+        private void FindMusic (List<string> filelist) {
             int index = 1;
             List<Music> TempList = new List<Music>();
             foreach (var item in filelist) {
@@ -127,9 +129,8 @@ namespace DMSkin.CloudMusic.ViewModel {
                 });
             }
         }
-
-        private static List<TrackCut> trackCuts = new List<TrackCut>();
-        public static List<TrackCut> TrackCuts { get => trackCuts; set => trackCuts = value; }
+        private static Hashtable trackCuts = new Hashtable();//musicNo,cutPos
+        public static Hashtable TrackCuts { get => trackCuts; set => trackCuts = value; }
         public ICommand EditCommand => new DelegateCommand(obj => {
             EditWindow editWindow = new EditWindow();
             editWindow.ShowDialog();
@@ -139,7 +140,7 @@ namespace DMSkin.CloudMusic.ViewModel {
             MusicList.RemoveAt(SelectNum);
         });
 
-        private string outputName= "\\test";
+        private string outputName = "\\test";
         public string OutputName { get => outputName; set => outputName = value; }
         public ICommand StartCreation {
             get {
@@ -162,22 +163,18 @@ namespace DMSkin.CloudMusic.ViewModel {
 
                         // transfer the cut position to midisplice
                         List<TrackCut>[] cutpos;
-                        if (trackCuts.Count > 0) {
-                            cutpos = new List<TrackCut>[TrackCuts.Count];
-                            for (int i = 0; i < cutpos.Length; i++) {
-                                cutpos[i] = new List<TrackCut>();
-                                for (int j = 0; j < mf[TrackCuts[i].Tracknum].Tracks.Count; j++)
-                                    cutpos[i].Add(new TrackCut(j, TrackCuts[i].Startbar, TrackCuts[i].Endbar));
-                            }
-                        } else {
-                            cutpos = new List<TrackCut>[mf.Count];
-                            for (int i = 0; i < cutpos.Length; i++) {
-                                cutpos[i] = new List<TrackCut>();
-                                for (int j = 0; j < mf[i].Tracks.Count; j++)
-                                    // cutpos[i].Add(new TrackCut(j, 0, 0));
+
+                        cutpos = new List<TrackCut>[mf.Count];
+                        for (int i = 0; i < cutpos.Length; i++) {
+                            cutpos[i] = new List<TrackCut>();
+                            for (int j = 0; j < mf[i].Tracks.Count; j++) {
+                                if (TrackCuts.ContainsKey(i))
+                                    cutpos[i].Add(new TrackCut(j, ((TrackCut)TrackCuts[i]).Startbar, ((TrackCut)TrackCuts[i]).Endbar));
+                                else
                                     cutpos[i].Add(new TrackCut(j, mf[i].CutPos[0], mf[i].CutPos[1]));
                             }
                         }
+
 
                         // cut the midifile according to the cutpos
                         // MidiSplice ms = new MidiSplice(mf, cutpos,sp);
@@ -197,7 +194,8 @@ namespace DMSkin.CloudMusic.ViewModel {
                                 Artist = m.Artist,
                                 TimeStr = m.time
                             });
-                        } catch (Exception e) {
+                        }
+                        catch (Exception e) {
                             string str = GetExceptionMsg(e, string.Empty);
                             System.Windows.Forms.MessageBox.Show(str, "系统错误", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
@@ -207,7 +205,9 @@ namespace DMSkin.CloudMusic.ViewModel {
                 });
             }
         }
-        static string GetExceptionMsg(Exception ex, string backStr) {
+
+
+        static string GetExceptionMsg (Exception ex, string backStr) {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("****************************异常文本****************************");
             sb.AppendLine("【出现时间】：" + DateTime.Now.ToString("yyyy-MM-dd hh:mm:ss"));
@@ -216,7 +216,8 @@ namespace DMSkin.CloudMusic.ViewModel {
                 sb.AppendLine("【异常信息】：" + ex.Message);
                 sb.AppendLine("【堆栈调用】：" + ex.StackTrace);
                 sb.AppendLine("【异常方法】：" + ex.TargetSite);
-            } else {
+            }
+            else {
                 sb.AppendLine("【未处理异常】：" + backStr);
             }
             sb.AppendLine("***************************************************************");

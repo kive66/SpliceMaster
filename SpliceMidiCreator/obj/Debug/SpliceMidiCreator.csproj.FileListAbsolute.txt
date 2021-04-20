@@ -33,3 +33,4 @@ E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.Genera
 E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csproj.CoreCompileInputs.cache
 E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.dll
 E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.pdb
+E:\Code\SpliceMaster\SpliceMidiCreator\obj\Debug\SpliceMidiCreator.csprojAssemblyReference.cache

@@ -5,7 +5,7 @@ using System.IO;
 namespace SpliceMaster {
 
     public struct TrackCut {
-        private int tracknum;
+        private int tracknum;//the No of track should be cut in the origin midi file
         private int startbar;
         private int endbar;
         private int startnote;
