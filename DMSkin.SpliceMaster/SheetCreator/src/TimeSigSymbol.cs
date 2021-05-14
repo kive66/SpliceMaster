@@ -54,13 +54,13 @@ public class TimeSigSymbol : MusicSymbol {
             for (int i = 0; i < 13; i++) {
                 images[i] = null;
             }
-            images[2] = new Bitmap("..\\..\\SheetCreator\\img\\two.png");
-            images[3] = new Bitmap("..\\..\\SheetCreator\\img\\three.png");
-            images[4] = new Bitmap("..\\..\\SheetCreator\\img\\four.png");
-            images[6] = new Bitmap("..\\..\\SheetCreator\\img\\six.png");
-            images[8] = new Bitmap("..\\..\\SheetCreator\\img\\eight.png");
-            images[9] = new Bitmap("..\\..\\SheetCreator\\img\\nine.png");
-            images[12] = new Bitmap("..\\..\\SheetCreator\\img\\twelve.png");
+            images[2] = new Bitmap("img\\two.png");
+            images[3] = new Bitmap("img\\three.png");
+            images[4] = new Bitmap("img\\four.png");
+            images[6] = new Bitmap("img\\six.png");
+            images[8] = new Bitmap("img\\eight.png");
+            images[9] = new Bitmap("img\\nine.png");
+            images[12] = new Bitmap("img\\twelve.png");
         }
     }
 

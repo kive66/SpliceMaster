@@ -124,7 +124,7 @@
                             Style="{StaticResource NoExpander}" Height="360">
                             <StackPanel>
                                 <controls:ImageRadioButton
-                                    Content="普通模式"
+                                    Content="转换"
                                     GroupName="Menu"
                                     Image="{StaticResource Icon_Music}"
                                     ImageWidth="14"

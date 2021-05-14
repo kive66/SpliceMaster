@@ -50,10 +50,10 @@ public class ClefSymbol : MusicSymbol {
     /** Load the Treble/Bass clef images into memory. */
     private static void LoadImages() {
         if (treble == null)
-            treble = new Bitmap("..\\..\\SheetCreator\\img\\treble.png");
+            treble = new Bitmap("img\\treble.png");
 
         if (bass == null)
-            bass = new Bitmap("..\\..\\SheetCreator\\img\\bass.png");
+            bass = new Bitmap("img\\bass.png");
 
     }
 
